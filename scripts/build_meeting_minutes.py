@@ -177,7 +177,7 @@ def build_content_cell(doc, cell, blocks):
                    매겨진다 (heading/subheading을 새로 만나면 새 목록으로 다시 I부터 시작).
                    "sub_bullets"(선택)를 주면 그 bullet 밑에 별도의 네이티브 목록으로 소문자
                    로마 숫자("i. ii. ...")가 매겨진 하위 목록이 생긴다 (bullet마다 새로 i부터 시작).
-      qna        - {"q": "...", "q_speaker": "박민선 리더", "a": "...", "a_speaker": "송우현 팀장"}
+      qna        - {"q": "...", "q_speaker": "최지훈 리더", "a": "...", "a_speaker": "이영수 팀장"}
                    Q는 bullet과 같은 대문자 로마 숫자 목록에 "Qn. <질문> (<q_speaker>)"로 들어가고
                    (heading/subheading을 새로 만나기 전까지는 같은 목록이 계속 이어진다 - 즉 같은
                    Q&A 구간 안의 질문들은 I, II, III...로 쭉 이어지고 새 구간에서만 다시 I부터 시작),
