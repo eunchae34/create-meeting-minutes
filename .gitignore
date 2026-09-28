@@ -1,0 +1,8 @@
+# 로컬 AI 도구(claude-skills-manager 등)가 자동 생성하는 파일
+.claude/
+.cursor/
+.kiro/
+CLAUDE.md
+.github/copilot-instructions.md
+.github/hooks/
+.github/instructions/

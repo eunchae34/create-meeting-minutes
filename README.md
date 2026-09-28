@@ -12,7 +12,7 @@
 이 저장소를 클론한 뒤, 스킬 폴더를 회의록을 모아둘 프로젝트 루트의 `.claude/skills/`에 복사합니다.
 
 ```bash
-git clone https://github.com/<owner>/create-meeting-minutes.git
+git clone https://github.com/eunchae34/create-meeting-minutes.git
 cp -r create-meeting-minutes <회의록-프로젝트-루트>/.claude/skills/create-meeting-minutes
 ```
 
